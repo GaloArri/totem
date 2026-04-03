@@ -118,41 +118,41 @@ layers:
   - {t: ▽, type: trans}
   - {type: held}
   GL:
+  - TAB
+  - '1'
+  - '2'
+  - '3'
+  - '4'
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
+  - LSHFT
+  - Q
+  - W
+  - E
+  - R
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
+  - ESC
+  - LCTRL
   - A
   - S
   - D
   - F
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - J
-  - K
-  - L
-  - ;
-  - LCTRL
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - Y
+  - B
   - SPACE
-  - LSHFT
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
