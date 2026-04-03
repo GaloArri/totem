@@ -77,7 +77,7 @@ MAKE_HRM(hmr, &kp, &kp, KEYS_L THUMBS)
             bindings = <
          &kp TAB    &kp N1  &kp N2  &kp N3  &kp N4       &trans        &trans        &trans          &trans       &trans
          &kp LSHFT  &kp Q   &kp W   &kp E   &kp R        &trans        &trans        &trans          &trans       &trans
-&kp ESC  &kp LCTRL  &kp A   &kp S   &kp D   &kp F        &trans        &trans        &trans          &trans       &trans      &trans
+&kp ESC  &kp LCTRL  &kp A   &kp S   &kp D   &kp F        &trans        &trans        &trans          &trans       &trans      &tog 0
                             &kp Y   &kp B   &kp SPACE    &trans        &trans        &trans
             >;
 
