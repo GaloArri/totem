@@ -149,7 +149,7 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - {t: BL, h: toggle}
+  - {t: ▽, type: trans}
   - Y
   - B
   - SPACE
